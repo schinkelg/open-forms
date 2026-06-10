@@ -26,12 +26,12 @@ Development cycle
 
 A development cycle is one quarter of the year (3 months), made up of 4-week sprints.
 
-During this time, new features are development and bugfixes applied to older versions,
-when applicable. After each sprint, and alpha or beta version is released as
+During this time, new features are developed and bugfixes applied to older versions,
+when applicable. After each sprint an alpha or beta version is released as
 pre-release. These releases are not suitable for production usage.
 
 At the end of the quarter and/or at the start of the next quarter, each release is
-finalized into a stable version, suitable for production usage..
+finalized into a stable version, suitable for production usage.
 
 Supported versions
 ==================
@@ -56,7 +56,7 @@ if the latest stable version is 3.6.0, this means:
 .. versionchanged:: 2.7.0
 
     Before 2.7.0, we supported old versions for 6 months after the new version was
-    released. Given the available resources, this was causing too much maintenance
+    released. This was causing too much maintenance
     overhead and limits cleaning up of technical debt.
 
 .. seealso::
